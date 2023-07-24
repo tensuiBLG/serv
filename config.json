@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
+	"ip":"PvPBoxTraining.aternos.me",
 	"port": "25565",
-	"name": "afkbot1",
+	"name": "tensui_AFKBOT",
 	"auto-night-skip":"true"
 }
